@@ -74,7 +74,7 @@ df_filtered = df[
  
 # TÍTULO
 #
-st.title(" Dashboard de Ventas - Supermarket Sales")
+st.title(" Dashboard de Ventas ")
 st.markdown("Explora el comportamiento de las ventas, productos y clientes mediante visualizaciones interactivas.")
 
 
